@@ -1,7 +1,7 @@
 ﻿namespace Ex04.Menus.Interfaces
 {
-    interface IMenuListener
+    public interface IMenuListener
     {
-        void Run(int i_Index);
+        void ActivateMethod(int i_Index);
     }
 }

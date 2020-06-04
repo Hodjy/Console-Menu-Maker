@@ -35,8 +35,10 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ConsoleItem.cs" />
     <Compile Include="IMenuListener.cs" />
     <Compile Include="Menu.cs" />
+    <Compile Include="MethodActivator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

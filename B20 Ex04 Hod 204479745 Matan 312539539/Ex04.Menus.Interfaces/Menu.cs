@@ -1,31 +1,42 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Ex04.Menus.Interfaces
+﻿namespace Ex04.Menus.Interfaces
 {
-    class Menu : IMenuListener
+    using System.Collections.Generic;
+
+    public class Menu : ConsoleItem
     {
-        public Menu(List<IMenuListener> i_List)
-        {
+        List<ConsoleItem> m_MenuList;
 
+        public Menu(string i_MenuName) : base(i_MenuName)
+        {
+            m_MenuList = new List<ConsoleItem>();
+            m_MenuList.Add(new )
         }
 
-        public void Run(int i_Index)
+        public override void Run()
         {
-            // start menu operation
+            bool isMenuRunning = true;
+
+            while (isMenuRunning)
+            {
+                showMenu();
+                
+            }
         }
 
-        /*
-         userchosesomething:
-         5
-         list[5].Run();
-         
-         
-         --EXE
+        public Menu MakeSubMenu(string i_MenuName)
+        {
+            Menu subMenu = new Menu(i_MenuName);
 
-        list <- menu2 menu3 item1 item4 item7
-         
-         */
+            m_MenuList.Add(subMenu);
+
+            return subMenu;
+        }
+
+        public void MakeActivator(IMenuListener i_Listener, string i_ActivatorName, int i_MethodIndex)
+        {
+            MethodActivator newActivator = new MethodActivator(i_Listener, i_ActivatorName, i_MethodIndex);
+
+            m_MenuList.Add(newActivator);
+        }
     }
 }
