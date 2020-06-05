@@ -39,6 +39,21 @@
 
         void IMenuListener.ActivateMethod(int i_Index)
         {
+            switch (i_Index)
+            {
+                case 1:
+                    CountCapitals();
+                    break;
+                case 2:
+                    ShowVersion();
+                    break;
+                case 3:
+                    ShowTime();
+                    break;
+                case 4:
+                    ShowDate();
+                    break;
+            }
         }
     }
 }

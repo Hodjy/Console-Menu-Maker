@@ -1,5 +1,7 @@
 ﻿namespace Ex04.Menus.Interfaces
 {
+    using System;
+
     internal class MethodActivator : ConsoleItem
     {
         IMenuListener m_Activator;
@@ -14,7 +16,15 @@
 
         internal override void Run()
         {
+            Console.Clear();
             m_Activator.ActivateMethod(m_MethodIndex);
+            pressToContinue();
+        }
+
+        private void pressToContinue()
+        {
+            Console.WriteLine("Press any key to continue.");
+            Console.ReadLine();
         }
     }
 }
