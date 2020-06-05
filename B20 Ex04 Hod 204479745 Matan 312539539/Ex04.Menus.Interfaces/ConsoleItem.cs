@@ -21,7 +21,7 @@
             }
         }
 
-        protected virtual void Run()
+        internal virtual void Run()
         {
 
         }
