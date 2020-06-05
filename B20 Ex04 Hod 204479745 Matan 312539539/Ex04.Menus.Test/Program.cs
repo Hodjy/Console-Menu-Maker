@@ -6,16 +6,23 @@
     {
         public static void Main()
         {
-            Menu m_MainMenu = new Menu("MainMenu");
-            Menu m_VersionsAndDigits = m_MainMenu.MakeSubMenu("Versions and Digits");
-            Menu m_ShowDateOrTime = m_MainMenu.MakeSubMenu("Show Date/Time");
-            MethodsCollection m_MethodsCollectionItem = new MethodsCollection();
+            
+        }
 
-            m_VersionsAndDigits.MakeActivator(m_MethodsCollectionItem, "Count Capitals", 1);
-            m_VersionsAndDigits.MakeActivator(m_MethodsCollectionItem, "Show Version", 2);
-            m_ShowDateOrTime.MakeActivator(m_MethodsCollectionItem, "Show Time", 3);
-            m_ShowDateOrTime.MakeActivator(m_MethodsCollectionItem, "Show Date", 4);
-            m_MainMenu.Show();
+        private void runInterfaceMenu()
+        {
+            Menu mainMenu = new Menu("MainMenu");
+            MethodsCollection methodsCollectionItem = new MethodsCollection();
+            Menu versionsAndDigits = mainMenu.MakeSubMenu("Versions and Digits");
+            Menu showDateOrTime = mainMenu.MakeSubMenu("Show Date/Time");
+            
+
+
+            versionsAndDigits.MakeActivator(methodsCollectionItem, "Count Capitals", 1);
+            versionsAndDigits.MakeActivator(methodsCollectionItem, "Show Version", 2);
+            showDateOrTime.MakeActivator(methodsCollectionItem, "Show Time", 3);
+            showDateOrTime.MakeActivator(methodsCollectionItem, "Show Date", 4);
+            mainMenu.Show();
         }
     }
 }
