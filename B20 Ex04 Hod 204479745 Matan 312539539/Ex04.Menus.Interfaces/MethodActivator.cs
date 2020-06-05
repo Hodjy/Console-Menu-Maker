@@ -12,7 +12,7 @@
             m_Activator = Listener;
         }
 
-        public override void Run()
+        protected override void Run()
         {
             m_Activator.ActivateMethod(m_MethodIndex);
         }

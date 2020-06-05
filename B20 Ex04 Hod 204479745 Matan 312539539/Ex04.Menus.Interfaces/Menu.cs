@@ -9,18 +9,29 @@
         public Menu(string i_MenuName) : base(i_MenuName)
         {
             m_MenuList = new List<ConsoleItem>();
-            m_MenuList.Add(new )
         }
 
-        public override void Run()
+        protected override void Run()
         {
             bool isMenuRunning = true;
+            int  userInput = -1;
 
             while (isMenuRunning)
             {
-                showMenu();
-                
+                showMenu(); // always show 0. Exit
+                userInput = getValidInputAsInt();
+                if (userInput == 0)
+                {
+                    break;
+                }
+
+                chooseFromList(userInput);
             }
+        }
+
+        private void showMenu()
+        {
+
         }
 
         public Menu MakeSubMenu(string i_MenuName)
