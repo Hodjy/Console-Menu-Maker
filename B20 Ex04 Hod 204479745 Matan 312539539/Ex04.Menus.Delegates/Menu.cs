@@ -51,6 +51,7 @@
 
             Console.Clear();
             stringToPrint.AppendFormat(@"{0}: 
+
 ", Name);
             stringToPrint.AppendFormat("0. {0}.", m_PreviousMenu);
             stringToPrint.AppendLine();

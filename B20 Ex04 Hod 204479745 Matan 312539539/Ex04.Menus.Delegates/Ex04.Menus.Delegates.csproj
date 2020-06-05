@@ -38,7 +38,6 @@
     <Compile Include="ConsoleItem.cs" />
     <Compile Include="Menu.cs" />
     <Compile Include="MethodActivator.cs" />
-    <Compile Include="MethodListener.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

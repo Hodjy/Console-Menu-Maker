@@ -18,3 +18,5 @@ D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 31
 D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
 D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
 D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
