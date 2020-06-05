@@ -4,3 +4,9 @@ C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539
 C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
 C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

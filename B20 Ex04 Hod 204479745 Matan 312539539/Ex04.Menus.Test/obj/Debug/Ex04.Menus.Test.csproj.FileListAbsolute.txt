@@ -7,3 +7,14 @@ C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539
 C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
 C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
 C:\Users\Hod\source\repos\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojAssemblyReference.cache
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+D:\Program Files (x86)\GitHub\Console-Menu-Maker\B20 Ex04 Hod 204479745 Matan 312539539\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb

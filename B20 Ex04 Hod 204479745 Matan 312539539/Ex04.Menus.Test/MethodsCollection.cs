@@ -29,12 +29,12 @@
 
         public void ShowTime()
         {
-            Console.WriteLine(DateTime.Now.TimeOfDay);
+            Console.WriteLine(DateTime.Now.ToString("T"));
         }
 
         public void ShowDate()
         {
-            Console.WriteLine(DateTime.Now.Date);
+            Console.WriteLine(DateTime.Today.ToString("d"));
         }
 
         void IMenuListener.ActivateMethod(int i_Index)
