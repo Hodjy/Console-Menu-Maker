@@ -7,7 +7,7 @@
     public class Menu : ConsoleItem
     {
         private List<ConsoleItem> m_MenuList;
-        private string            m_PreviousMenu;
+        private string m_PreviousMenu;
 
         public Menu(string i_MenuName) : base(i_MenuName)
         {
@@ -29,7 +29,7 @@
         internal override void Run()
         {
             bool isMenuRunning = true;
-            int  userInput = -1;
+            int userInput = -1;
 
             while (isMenuRunning)
             {
@@ -47,7 +47,7 @@
         private void showMenu()
         {
             StringBuilder stringToPrint = new StringBuilder();
-            int           i = 1;
+            int i = 1;
 
             Console.Clear();
             stringToPrint.AppendFormat(@"{0}: 
@@ -68,8 +68,8 @@
         private int getValidInputAsInt()
         {
             string userInput = null;
-            int    userConvertedInput = 0;
-            bool   isInputValid = false, isParseValid = false, isInMenuRange = false;
+            int userConvertedInput = 0;
+            bool isInputValid = false, isParseValid = false, isInMenuRange = false;
 
             while (!isInputValid)
             {

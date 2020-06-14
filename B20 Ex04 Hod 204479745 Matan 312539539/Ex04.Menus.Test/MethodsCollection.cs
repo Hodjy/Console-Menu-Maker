@@ -9,6 +9,7 @@
         {
             int capitalCount = 0;
             string userInput = null;
+
             Console.WriteLine("Please enter a sentence in English.");
             userInput = Console.ReadLine();
             foreach (char letter in userInput)

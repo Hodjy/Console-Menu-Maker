@@ -7,6 +7,11 @@
     {
         public static void Main()
         {
+            runAllMenus();
+        }
+
+        private static void runAllMenus()
+        {
             runInterfaceMenu();
             runDelegateMenu();
         }
