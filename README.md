@@ -1,9 +1,9 @@
 # Console-Menu-Maker
 Console based menu and sub-menu maker in C#
 
-This projects simulates a plugin that help create menus for the client.
+The project simulates a plugin that helps create menus for the client.
 
-It comes in two versions:
+The plugin have two versions:
 
-1.Create menus with Delegates  
-2.Create menus with Interfaces  
+1. Create menus with Delegates  
+2. Create menus with Interfaces
